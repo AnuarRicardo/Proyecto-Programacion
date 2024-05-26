@@ -1,0 +1,14 @@
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\bin\Debug\net8.0\Proyecto-Programacion.exe
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\bin\Debug\net8.0\Proyecto-Programacion.deps.json
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\bin\Debug\net8.0\Proyecto-Programacion.runtimeconfig.json
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\bin\Debug\net8.0\Proyecto-Programacion.dll
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\bin\Debug\net8.0\Proyecto-Programacion.pdb
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.AssemblyInfoInputs.cache
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.AssemblyInfo.cs
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.dll
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\refint\Proyecto-Programacion.dll
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.pdb
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\Proyecto-Programacion.genruntimeconfig.cache
+C:\Users\Josefa Cardenas\source\repos\Proyecto-Programacion\obj\Debug\net8.0\ref\Proyecto-Programacion.dll
